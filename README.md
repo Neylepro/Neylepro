@@ -9,8 +9,9 @@
 • <a href="https://minecraft.net">Minecraft</a><img src="img/mc.GIF" heigth="40px" width="40px">
 • <a href="https://minecraftdungeons.net">Minecraft Dungeons</a><img src="img/Hi.GIF" heigth="40px" width="40px">
 
+<h1>Github Stats</h1>
 <div align="center">
-  <h1>Github Stats</h1>
+ 
 ![NeyLePro's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeyLePro&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeyLePro)](https://github.com/anuraghazra/github-readme-stats)
