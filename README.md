@@ -5,8 +5,7 @@
   Hi im a small Minecraft Youtuber , i also own <a href="">Delta Client</a> <img src="img/delta.png"> and <a href="https://gamecraft.gq">Gamecraft</a><img src="img/gamecraft.png">
                                                                                    
 </div>
-<h2>Contact Me</h2>
-<img src="img/discord.png">
+
 
 
 <h1>Github Stats</h1>
@@ -19,7 +18,7 @@
 ---
 
 </details>
-
+<h2>How to contact me</h2>
 ```text
 Discord : NeyLePro#
 Github : NeyLePro
