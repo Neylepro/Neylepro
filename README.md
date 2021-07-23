@@ -5,9 +5,6 @@
   Hi im a small Minecraft Youtuber , i also own <a href="">Delta Client</a> <img src="img/delta.png"> and <a href="https://gamecraft.gq">Gamecraft</a><img src="img/gamecraft.png">
                                                                                    
 </div>
-<h1>My favorite Games</h1>
-• <a href="https://minecraft.net">Minecraft</a><img src="img/mc.GIF" heigth="40px" width="40px">
-• <a href="https://minecraftdungeons.net">Minecraft Dungeons</a><img src="img/Hi.GIF" heigth="40px" width="40px">
 
 <h1>Github Stats</h1>
 <div align="center">
