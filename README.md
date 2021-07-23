@@ -18,8 +18,10 @@
 ---
 
 </details>
-<h2>How to contact me</h2>
+
 ```text
+For contact me
+
 Discord : NeyLePro#
 Github : NeyLePro
 Mail : contact@neylepro.cf
