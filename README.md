@@ -1,5 +1,5 @@
 <div align="center">
-<script src="js/particles.js">
+  
 <div class="particles-js">
   </div>
 
