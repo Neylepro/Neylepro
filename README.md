@@ -6,8 +6,8 @@
                                                                                    
 </div>
 <h1>My favorite Games</h1>
-• <a href="https://minecraft.net">Minecraft</a><img src="img/mc.gif" heigth="40px" width="40px">
-• <a href="https://minecraftdungeons.net">Minecraft Dungeons</a><img src="img/mcd.gif" heigth="40px" width="40px">
+• <a href="https://minecraft.net">Minecraft</a><img src="img/mc.GIF" heigth="40px" width="40px">
+• <a href="https://minecraftdungeons.net">Minecraft Dungeons</a><img src="img/mcd.GIF" heigth="40px" width="40px">
 
 
 
