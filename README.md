@@ -2,7 +2,7 @@
 
 
 <h1>Welcome I'm <a href="https://www.github.com/NeyLePro">NeyLePro</a>!</h1>
-  Hi im a small Minecraft Youtuber , i also own <a href="https://github.com/xxxdeltadev">Delta Client</a> <img src="img/delta.png"> and <a href="https://gamecraft.gq">Gamecraft</a><img src="img/gamecraft.png">
+  Hi im a small Minecraft Youtuber , i also own <a href="https://github.com/deltaclientmc">Delta Client</a> <img src="img/delta.png"> 
                                                                                    
 </div>
 
